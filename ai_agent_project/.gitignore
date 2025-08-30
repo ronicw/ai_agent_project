@@ -3,3 +3,5 @@ venv/
 gemini_agent_env/
 __pycache__/
 *.pyc
+.DS_Store
+.vscode/
